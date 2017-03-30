@@ -39,6 +39,9 @@ http://blog.csdn.net/lmj623565791/article/details/45460089
 ### 12，不解释 Android最权威的Blog
 https://developer.android.google.cn/index.html
 
+#### 13，RxJava2入门文章，共9篇
+http://www.jianshu.com/u/c50b715ccaeb
+
 ## 面试篇
 
 ### 下面就罗列一下别人总结的面试文章 总结的很全面，留着以后用
